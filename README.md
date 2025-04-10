@@ -9,20 +9,18 @@
 <h4>Sou técnico em Administração, e atualmente estou cursando Desenvolvimento de Sistemas, buscando aprender, me qualificar, e ser um otimo profissional da aréa. Com o proposito de me tornar Dev FullStack, estou entusiasmado com o mundo novo que estou entrando, e ansioso para as experiências que me serão proporcionadas!</h4>
 <br>
 <hr>
-<br>
-<h3>dffgfgbhfg<?h3>
+<h3>Languages<?h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="cadu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="cadu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <br>
-<3>Em breve!</3>
+<h3>Shortly!</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <a target="_blank" href="https://www.java.com" > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </a>
 </div>
-
-
 
 
 
