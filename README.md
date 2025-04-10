@@ -16,3 +16,10 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/cadue_/)
 
 <hr>
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+<div>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=carlos-eduardo-nasc&show_icons=true&theme=dracula">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-eduardo-nasc&layout=compact&langs_count=6&theme=dracula">
+</div>
