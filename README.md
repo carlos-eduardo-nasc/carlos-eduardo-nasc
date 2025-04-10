@@ -6,7 +6,7 @@
 
 
 <h3>Olá! Sou o Carlos Eduardo.</h3>
-<h4>Sou técnico em Administração, e atualmente estou cursando Desenvolvimento de Sistemas, buscando aprender, me qualificar, e ser um otimo profissional da aréa. Com o proposito de me tornar Dev FullStack, estou entusiasmado com o mundo novo que estou entrando, e ansioso para experiências que me serão proporcionadas!</h4>
+<h4>Sou técnico em Administração, e atualmente estou cursando Desenvolvimento de Sistemas, buscando aprender, me qualificar, e ser um otimo profissional da aréa. Com o proposito de me tornar Dev FullStack, estou entusiasmado com o mundo novo que estou entrando, e ansioso para as experiências que me serão proporcionadas!</h4>
 <br>
 <hr>
 <h3 align="left">Connect with me!</h3>
