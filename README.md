@@ -23,3 +23,8 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=carlos-eduardo-nasc&show_icons=true&theme=dracula">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-eduardo-nasc&layout=compact&langs_count=6&theme=dracula">
 </div>
+<div>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Henriluiz&show_icons=true&theme=dracula">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriluiz&layout=compact&langs_count=6&theme=dracula">
+</div>
+
