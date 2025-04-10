@@ -17,7 +17,7 @@
 </div>
 <br>
 <h3>Shortly!</h3>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="cadu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="cadu-JAVA" height="30" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
 </div>
@@ -34,8 +34,10 @@
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-<div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=carlos-eduardo-nasc&show_icons=true&theme=dracula">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-eduardo-nasc&layout=compact&langs_count=6&theme=dracula">
-</div>
+
+  <br/>
+  <a href="https://github.com/carlos-eduardo-nasc/carlos-eduardo-nasc.git"><img alt="cadu Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=tauz-hub&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/carlos-eduardo-nasc/carlos-eduardo-nasc.git"><img alt="cadu Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-eduardo-nasc&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
+  <br/>
+
 
