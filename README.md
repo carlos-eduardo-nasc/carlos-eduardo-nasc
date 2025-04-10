@@ -18,8 +18,8 @@
 <br>
 <h3>Shortly!</h3>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a target="_blank" href="https://www.java.com" > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </a>
+  <img align="center" alt="cadu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="cadu-JAVA" height="30" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
 </div>
 
 
