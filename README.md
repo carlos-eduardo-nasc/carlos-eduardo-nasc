@@ -35,9 +35,21 @@
   <h3>* GitHub Stats *</h3>
   <br>
 
-  <br/>
-  <a href="https://github.com/carlos-eduardo-nasc/carlos-eduardo-nasc.git"><img alt="cadu Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-eduardo-nasc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
-  <a href="https://github.com/carlos-eduardo-nasc/carlos-eduardo-nasc.git"><img alt="cadu Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-eduardo-nasc&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript"/></a>
-  <br/>
+<p>
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  width="auto" height="150px" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=carlos-eduardo-nasc&show_icons=true&bg_color=f2f2f2&title_color=ff0000&text_color=0000000&icon_color=ff0000&include_all_commits=true&locale=pt-br" 
+/>
 
+
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  width="auto" height="150px" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-eduardo-nasc&layout=compact&custom_title=Tecnologias&langs_count=9&bg_color=f2f2f2&title_color=ff0000&text_color=0000000&icon_color=ff0000" 
+/>
+</p>
 
