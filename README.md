@@ -49,6 +49,7 @@
   align="left" 
   alt="GitHub Stats" 
   width="auto" height="150px" 
+  style="padding-right: 10px;"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-eduardo-nasc&layout=compact&custom_title=Tecnologias&langs_count=9&bg_color=f2f2f2&title_color=ff0000&text_color=0000000&icon_color=ff0000" 
 />
 </p>
