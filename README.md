@@ -41,7 +41,7 @@
   alt="GitHub Stats" 
   width="auto" height="150px" 
   style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=carlos-eduardo-nasc&show_icons=true&bg_color=A020F0&title_color=ff0000&text_color=A020F0&icon_color=ff0000&include_all_commits=true&locale=pt-br" 
+  src="https://github-readme-stats.vercel.app/api?username=carlos-eduardo-nasc&show_icons=true&bg_color=f2f2f2&title_color=ff0000&text_color=A020F0&icon_color=ff0000&include_all_commits=true&locale=pt-br" 
 />
 
 
