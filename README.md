@@ -24,7 +24,7 @@
 
 
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="center">Connect with me!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/cadu-carlos-eduardo)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=A55CFF)](mailto:carlos.lithwood@gmail.com)
@@ -38,12 +38,12 @@
 <br>
 <p>
 <img 
-  align="left" 
+  align="center" 
   alt="GitHub Stats" 
   width="auto" height="150px" 
   src="https://github-readme-stats.vercel.app/api?username=carlos-eduardo-nasc&show_icons=true&bg_color=f2f2f2&title_color=ff0000&text_color=A020F0&icon_color=ff0000&include_all_commits=true&locale=pt-br"/>
 <img 
-  align="left" 
+  align="center" 
   alt="GitHub Stats" 
   width="auto" height="150px"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-eduardo-nasc&layout=compact&custom_title=Tecnologias&langs_count=9&bg_color=f2f2f2&title_color=A020F0&text_color=0000000&icon_color=ff0000"/>
