@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a0df9&height=120&section=header"/>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A020F0&center=true&vCenter=false&random=true&width=524&lines=Hi,+I'm+Cadu!;I'm+Web+Developer;%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A020F0&center=true&vCenter=false&random=true&width=524&lines=Hi,+I'm+Cadu!;I'm+Systems+Developer;%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
 
 <h3>Olá! Sou o Carlos Eduardo Nascimento.</h3>
 <h4>Sou técnico em Administração, e atualmente estou cursando Desenvolvimento de Sistemas na <a href="https://www.cps.sp.gov.br/etec/">ETEC</a>, buscando aprender, me qualificar, e ser um excelente profissional da T.I. Com o proposito de me tornar Dev FullStack sigo minha jornada e estou entusiasmado com o mundo novo que estou entrando, e ansioso para as experiências que me serão proporcionadas!</h4>
